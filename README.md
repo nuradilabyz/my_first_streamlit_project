@@ -11,8 +11,8 @@
 
 1. Репозиторийді клондау:
 ```bash
-git clone https://github.com/СЕНІҢ_ПАЙДАЛАНУШЫ_АТЫ/text_app.git
-cd text_app
+git clone https://github.com/nuradilabyz/my_first_streamlit_project.git
+cd my_first_streamlit_project
 
 
 Қажетті кітапханаларды орнату:
